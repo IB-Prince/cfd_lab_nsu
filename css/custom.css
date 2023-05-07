@@ -11,4 +11,8 @@
     height: 50px;
     overflow: hidden;
   }
-  
+
+  .img-mem{
+    max-width: 270px;
+    height: auto;
+  }
