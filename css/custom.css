@@ -20,3 +20,7 @@
   max-height: 100%;
   width: auto;
 }
+#gallery img:hover {
+  color: rgb(10, 177, 255);
+  opacity: 95%;
+}
